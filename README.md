@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ryan 👋
 
-<!--
-**ryandus/ryandus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build pragmatic tools, forensic investigation frameworks, and SaaS telemetry solutions. Focused on turning complex workflows, incident data, and low-level system artifacts into structured, reliable tools.
 
-Here are some ideas to get you started:
+🛠️ Featured Projects
+TriageFlow – Enterprise API triage, universal telemetry, and SaaS demarcation playbooks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+DFIR Investigation Framework – Standardized forensic framework aligned with NIST SP 800-61, ISO/IEC 27037/27042, and FRE 702.
+
+EDRM Litigation Forensics Showcase – Bridge between technical digital forensics, e-discovery, and legal workflows.
+
+Police Report Generator – Standardized operational narrative reporting interface.
+
+🔍 Focus Areas & Tooling
+Domains: Digital Forensics & Incident Response (DFIR), Evidence Handling, API Triage, Workflow Automation
+
+Stack & Tech: TypeScript, Python, Shell, HTML/CSS, Linux, REST APIs
+
+📫 Feel free to explore the repos, check out the code, or open an issue.
