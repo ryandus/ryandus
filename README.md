@@ -1,6 +1,6 @@
-# Hi, I'm Ryan 👋
- 
-I build pragmatic tools, forensic investigation frameworks, and SaaS telemetry solutions. Focused on turning complex workflows, incident data, and low-level system artifacts into structured, reliable tools.
+Hi, I'm Ryan 👋
+
+Digital Forensics Examiner and Support Engineer building pragmatic tooling, incident response frameworks, and SaaS telemetry playbooks. Focused on turning raw system artifacts, logs, and complex operational workflows into clean, reliable software.
 
 ---
 ### 🛠️ Featured Projects
