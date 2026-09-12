@@ -5,10 +5,10 @@ I build pragmatic tools, forensic investigation frameworks, and SaaS telemetry s
 ---
 ### 🛠️ Featured Projects
 
-* `[**TriageFlow**](https://github.com/ryandus/TriageFlow-A-SaaS-Playbook) – Enterprise API triage, universal telemetry, and SaaS demarcation playbooks.`
-* `[**DFIR Investigation Framework**](https://github.com/ryandus/DFIR-Investigation-Framework) – Standardized forensic framework aligned with NIST SP 800-61, ISO/IEC 27037/27042, and FRE 702.`
-* `[**EDRM Litigation Forensics Showcase**](https://github.com/ryandus/edrm-litigation-forensics-showcase) – Bridge between technical digital forensics, e-discovery, and legal workflows.`
-* `[**Police Report Generator**](https://github.com/ryandus/Police-Report-Generator-) – Standardized operational narrative reporting interface.`
+* [TriageFlow](https://github.com/ryandus/TriageFlow-A-SaaS-Playbook) – Enterprise API triage, universal telemetry, and SaaS demarcation playbooks.
+* [DFIR Investigation Framework](https://github.com/ryandus/DFIR-Investigation-Framework) – Standardized forensic framework aligned with NIST SP 800-61, ISO/IEC 27037/27042, and FRE 702.
+* [EDRM Litigation Forensics Showcase](https://github.com/ryandus/edrm-litigation-forensics-showcase) – Bridge between technical digital forensics, e-discovery, and legal workflows.
+* [Police Report Generator](https://github.com/ryandus/Police-Report-Generator-) – Standardized operational narrative reporting interface.
 
 ---
 ### 🔍 Focus Areas & Tooling
