@@ -19,3 +19,6 @@ I build pragmatic tools, forensic investigation frameworks, and SaaS telemetry s
 ---
 
 📩 *Feel free to explore the repos, check out the code, or open an issue.*
+
+---
+For inquiries or opportunities, connect with me directly via [LinkedIn](https://www.linkedin.com/in/ryan-c-hanks/).
