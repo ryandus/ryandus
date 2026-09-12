@@ -13,9 +13,14 @@ I build pragmatic tools, forensic investigation frameworks, and SaaS telemetry s
 ---
 ### 🔍 Focus Areas & Tooling
 
-* **Domains:** Digital Forensics & Incident Response (DFIR), Evidence Handling, API Triage, Workflow Automation
-* **Stack & Tech:** TypeScript, Python, Shell, HTML/CSS, Linux, REST APIs
-
+* **Domains:** Digital Forensics & Incident Response (DFIR) • Evidence Preservation • API Triage • Litigation Support • Workflow Automation
+* **Core Tech:**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ---
 
 📩 *Feel free to explore the repos, check out the code, or open an issue.*
