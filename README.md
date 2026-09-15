@@ -2,6 +2,8 @@ Hi, I'm Ryan C. Hanks 👋
 
 Digital Forensics Examiner and eDiscovery Professional specializing in complex digital investigations, litigation support, and defensible evidence preservation. I build tools and frameworks that bridge the gap between technical artifact analysis, incident response, and legal workflows (FRE 702/901, ISO/IEC 27037).
 
+> **Engineering Philosophy:** The repositories below are independent proof-of-concepts built to demonstrate a first-principles understanding of digital evidence mechanics. While active litigation strictly requires court-tested enterprise platforms (e.g., Relativity, Magnet, Cellebrite), engineering custom forensic tooling ensures I possess the technical depth to validate raw data, understand artifacts at the hex level, and expertly troubleshoot commercial software deficits.
+
 ---
 ### 🛠️ Featured Projects
 
