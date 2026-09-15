@@ -6,7 +6,7 @@ Digital Forensics Examiner and eDiscovery Professional specializing in complex d
 ### 🛠️ Featured Projects
 
 * [EDRM Litigation Forensics Showcase](https://github.com/ryandus/edrm-litigation-forensics-showcase) – Bridge between technical digital forensics, e-discovery, and legal workflows.
-- [TriageFlow-DFIR](https://github.com/ryandus/TriageFlow-DFIR) – Enterprise API triage and incident response telemetry for complex environments.
+* [TriageFlow-DFIR](https://github.com/ryandus/TriageFlow-DFIR) – Enterprise API triage and incident response telemetry for complex environments.
 * [TraceFlow](https://github.com/ryandus/TraceFlow) – Client-side digital forensics evidence hash manifest generator and ISO/IEC 27037 chain-of-custody ledger.
 * [SyncFlow](https://github.com/ryandus/SyncFlow) – Forensic DVR clock-drift calibrator and timeline synchronizer engineered for LEVA/SWGDE compliance.
 * [DFIR Investigation Framework](https://github.com/ryandus/DFIR-Investigation-Framework) – Standardized forensic framework aligned with NIST SP 800-61, ISO/IEC 27037/27042, and FRE 702.
