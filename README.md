@@ -8,12 +8,12 @@ Digital Forensics Examiner and eDiscovery Professional specializing in complex d
 ### 🛠️ Featured Projects
 
 * **[ProdFlow](https://github.com/ryandus/ProdFlow)** – eDiscovery production QC (Concordance DAT, OPT/LFP), TAR elusion and recall statistics with exact confidence intervals, and matter cost estimates, backed by a tamper-evident SHA-256 audit trail. **[▶ Try it in your browser](https://ryandus.github.io/ProdFlow/)**: no install, and files never leave your device.
-* [EDRM Litigation Forensics Showcase](https://github.com/ryandus/edrm-litigation-forensics-showcase) – Bridge between technical digital forensics, e-discovery, and legal workflows.
-* [TriageFlow-DFIR](https://github.com/ryandus/TriageFlow-DFIR) – Enterprise API triage and incident response telemetry for complex environments.
-* [TraceFlow](https://github.com/ryandus/TraceFlow) – Client-side digital forensics evidence hash manifest generator and ISO/IEC 27037 chain-of-custody ledger.
-* [SyncFlow](https://github.com/ryandus/SyncFlow) – Forensic DVR clock-drift calibrator and timeline synchronizer engineered for LEVA/SWGDE compliance.
+* [EDRM Litigation Forensics Showcase](https://github.com/ryandus/edrm-litigation-forensics-showcase) – Bridge between technical digital forensics, e-discovery, and legal workflows. **[▶ View it in your browser](https://ryandus.github.io/edrm-litigation-forensics-showcase/)**
+* [TriageFlow-DFIR](https://github.com/ryandus/TriageFlow-DFIR) – Enterprise API triage and incident response telemetry for complex environments. **[▶ Try it in your browser](https://ryandus.github.io/TriageFlow-DFIR/)**
+* [TraceFlow](https://github.com/ryandus/TraceFlow) – Client-side digital forensics evidence hash manifest generator and ISO/IEC 27037 chain-of-custody ledger. **[▶ Try it in your browser](https://ryandus.github.io/TraceFlow/)**
+* [SyncFlow](https://github.com/ryandus/SyncFlow) – Forensic DVR clock-drift calibrator and timeline synchronizer engineered for LEVA/SWGDE compliance. **[▶ Try it in your browser](https://ryandus.github.io/SyncFlow/)**
 * [DFIR Investigation Framework](https://github.com/ryandus/DFIR-Investigation-Framework) – Standardized forensic framework aligned with NIST SP 800-61, ISO/IEC 27037/27042, and FRE 702.
-* [Police Report Generator](https://github.com/ryandus/Police-Report-Generator-) – Standardized operational narrative reporting interface.
+* [Police Report Generator](https://github.com/ryandus/Police-Report-Generator-) – Standardized operational narrative reporting interface. **[▶ Try it in your browser](https://ryandus.github.io/Police-Report-Generator-/)**
 
 ### 🔍 Focus Areas & Tooling
 
