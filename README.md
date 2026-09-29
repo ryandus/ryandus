@@ -7,6 +7,7 @@ Digital Forensics Examiner and eDiscovery Professional specializing in complex d
 ---
 ### 🛠️ Featured Projects
 
+* **[ProdFlow](https://github.com/ryandus/ProdFlow)** – eDiscovery production QC (Concordance DAT, OPT/LFP), TAR elusion and recall statistics with exact confidence intervals, and matter cost estimates, backed by a tamper-evident SHA-256 audit trail. **[▶ Try it in your browser](https://ryandus.github.io/ProdFlow/)**: no install, and files never leave your device.
 * [EDRM Litigation Forensics Showcase](https://github.com/ryandus/edrm-litigation-forensics-showcase) – Bridge between technical digital forensics, e-discovery, and legal workflows.
 * [TriageFlow-DFIR](https://github.com/ryandus/TriageFlow-DFIR) – Enterprise API triage and incident response telemetry for complex environments.
 * [TraceFlow](https://github.com/ryandus/TraceFlow) – Client-side digital forensics evidence hash manifest generator and ISO/IEC 27037 chain-of-custody ledger.
@@ -16,7 +17,7 @@ Digital Forensics Examiner and eDiscovery Professional specializing in complex d
 
 ### 🔍 Focus Areas & Tooling
 
-* **Domains:** Digital Forensics & Incident Response (DFIR) • Multimedia & Video Forensics • Evidence Preservation • API Triage • Litigation Support • Workflow Automation
+* **Domains:** Digital Forensics & Incident Response (DFIR) • eDiscovery Production QC & TAR Validation • Multimedia & Video Forensics • Evidence Preservation • API Triage • Litigation Support • Workflow Automation
 * **Standards & Compliance:** NIST SP 800-61/86 • ISO/IEC 27037 & 27042 • LEVA / SWGDE Protocols • RFC 3227 • FRE 702/901 (Defensible Chain of Custody)
 * **Core Tech:** [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/ryandus) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/ryandus) [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/ryandus) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/ryandus) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/ryandus) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/ryandus)
 
