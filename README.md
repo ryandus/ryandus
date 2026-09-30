@@ -8,6 +8,7 @@ Digital Forensics Examiner and eDiscovery Professional specializing in complex d
 ### 🛠️ Featured Projects
 
 #### CustodyFlow suite
+<a href="https://github.com/ryandus/custodyflow"><img src="custodyflow-banner.jpg" alt="CustodyFlow: TraceFlow, SyncFlow and ProdFlow linked by a SHA-256 hash chain" width="700"></a>
 
 Defensible DFIR and eDiscovery workflow tools. See the **[CustodyFlow overview](https://github.com/ryandus/custodyflow)**.
 
