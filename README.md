@@ -1,10 +1,10 @@
 Hi, I'm Ryan C. Hanks 👋
 
-**Digital forensics examiner and eDiscovery practitioner.** Former Lead Digital Forensics Detective (Everett PD, 2011–2025): mobile and video forensics, cloud warrant returns, and courtroom testimony. I build open-source tools that make evidence handling verifiable: SHA-256 hashing, audit trails, and chain-of-custody records aligned with FRE 702/901 and ISO/IEC 27037.
+**Digital forensics examiner and eDiscovery practitioner.** Former Lead Investigator & Forensics Unit Director / Detective at Everett PD (2017–2025; police officer since 2011): mobile and video forensics, cloud warrant returns, and courtroom testimony. I build open-source tools that make evidence handling verifiable: SHA-256 hashing, audit trails, and chain-of-custody records aligned with FRE 702/901 and ISO/IEC 27037.
 
 **Open to:** fully remote US roles in digital forensics / DFIR, eDiscovery, forensics-vendor and cybersecurity analyst positions, and IT support. Based in Florida (Eastern time).
 
-Every tool below runs in your browser with no install, and files never leave your device.
+The CustodyFlow tools below run in your browser with no install, and files never leave your device.
 
 ---
 ### 🛠️ Featured Projects
