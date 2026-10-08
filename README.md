@@ -33,7 +33,7 @@ Defensible DFIR and eDiscovery workflow tools. See the **[CustodyFlow overview](
 
   [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/ryandus) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/ryandus) [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/ryandus) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/ryandus) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/ryandus) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/ryandus)
 
-* **Certifications:** Cellebrite Certified Mobile Examiner (CCME), Certified Physical Analyst (CCPA), Certified Operator (CCO) • LEVA Certified Forensic Video Technician • RelativityOne Review Professional • Google Cybersecurity, AI, and IT Support Professional Certificates
+* **Certifications:** Cellebrite Certified Mobile Examiner (CCME), Certified Physical Analyst (CCPA), Certified Operator (CCO) • LEVA Certified Forensic Video Technician • RelativityOne Review Professional • Google Cybersecurity, AI, IT Support, and Project Management Professional Certificates
 
 <a href="https://www.credly.com/badges/8fc04ed3-9306-4ea6-a6d7-70ba614bfd03/public_url">
   <img src="Cybersecurity%201200%20x%201200.png" width="150" alt="Google Cybersecurity Professional Certificate">
@@ -45,6 +45,10 @@ Defensible DFIR and eDiscovery workflow tools. See the **[CustodyFlow overview](
 
 <a href="https://www.credly.com/badges/830e0233-9082-43f7-9a8e-8ba0c5d76edb/public_url">
   <img src="IT%20Support%20750%20x%20750.png" width="150" alt="Google IT Support Professional Certificate">
+</a>
+
+<a href="https://www.credly.com/badges/282fc5a8-e47f-405a-a2c5-0c57f7bf24c7/public_url">
+  <img src="https://images.credly.com/size/340x340/images/111b3ac7-c140-46e4-9c56-49689a7c71e6/image.png" width="150" alt="Google Project Management Professional Certificate">
 </a>
 
 ---
