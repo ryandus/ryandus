@@ -38,17 +38,12 @@ Defensible DFIR and eDiscovery workflow tools. See the **[CustodyFlow overview](
 <a href="https://www.credly.com/badges/8fc04ed3-9306-4ea6-a6d7-70ba614bfd03/public_url">
   <img src="Cybersecurity%201200%20x%201200.png" width="150" alt="Google Cybersecurity Professional Certificate">
 </a>
-
+<a href="https://www.credly.com/badges/282fc5a8-e47f-405a-a2c5-0c57f7bf24c7/public_url"><img src="google-project-management-professional-certificate-.2.png" width="150" alt="Google Project Management Professional Certificate"></a>
 <a href="https://www.credly.com/badges/a77a6d82-5492-4cd5-955e-2715ce0df5b1/public_url">
   <img src="AP%20Professional%201200%20x%201200.png" width="150" alt="Google AI Professional Certificate">
 </a>
-
 <a href="https://www.credly.com/badges/830e0233-9082-43f7-9a8e-8ba0c5d76edb/public_url">
   <img src="IT%20Support%20750%20x%20750.png" width="150" alt="Google IT Support Professional Certificate">
-</a>
-
-<a href="https://www.credly.com/badges/282fc5a8-e47f-405a-a2c5-0c57f7bf24c7/public_url">
-  <img src="https://images.credly.com/size/340x340/images/111b3ac7-c140-46e4-9c56-49689a7c71e6/image.png" width="150" alt="Google Project Management Professional Certificate">
 </a>
 
 ---
